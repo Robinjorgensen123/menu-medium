@@ -1,0 +1,29 @@
+ 
+.meny {
+    display: flex;
+}
+
+.img {
+    justify-items: flex-start;
+    width: 5rem;
+    height: 5rem;
+    align-self: flex-start;
+}
+
+.option-1 {
+    background-color: #666666;
+    text-decoration: none;
+    color: black;
+    padding: 2px;
+    align-items: flex-end;
+} 
+
+.option-234 {
+    background-color:#EEEEEE;
+    text-decoration: none;
+    color: black;
+    text-shadow: black;
+    padding: 2px;  
+    align-items: flex-end;
+}
+
