@@ -1,21 +1,33 @@
- 
-.meny {
+.header {
     display: flex;
+    align-items: center;
+    justify-content:space-between;
+    background-color:#EEEEEE
+}
+
+
+.navigation {
+    display: flex;
+    
+    
 }
 
 .img {
-    justify-items: flex-start;
-    width: 5rem;
-    height: 5rem;
-    align-self: flex-start;
+    display: flex;
+    padding: 10px;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    
+    
 }
-
 .option-1 {
-    background-color: #666666;
     text-decoration: none;
-    color: black;
     padding: 2px;
-    align-items: flex-end;
+    color: black;
+   
+    
+    
 } 
 
 .option-234 {
@@ -24,6 +36,8 @@
     color: black;
     text-shadow: black;
     padding: 2px;  
-    align-items: flex-end;
+    
+    
+    
 }
 
