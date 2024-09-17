@@ -12,20 +12,11 @@
     
 }
 
-.img {
-    display: flex;
-    padding: 10px;
-    flex-direction: row;
-    align-items: flex-start;
-    justify-content: flex-start;
-    
-    
-}
 .option-1 {
     text-decoration: none;
     padding: 2px;
     color: black;
-   
+    font-family:"SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     
     
 } 
@@ -36,6 +27,7 @@
     color: black;
     text-shadow: black;
     padding: 2px;  
+    font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;;
     
     
     
